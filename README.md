@@ -191,7 +191,7 @@ Pluggable database dropped.
 
 ![Final](https://github.com/user-attachments/assets/559f7de9-6e37-4b48-ab46-e978553db281)
 
-### SQL COMMANDS SCREENSHOT
+### SQL COMMANDS SCREENSHOTS
 
 
 
