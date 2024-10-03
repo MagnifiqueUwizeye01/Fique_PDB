@@ -15,7 +15,7 @@ Microsoft Windows [Version 10.0.19045.4894]
 
 C:\Users\User>sqlplus sys as SYSDBA
 
-### Connect to the Oracle database as SYSDBA (superuser privileges)
+--- Connect to the Oracle database as SYSDBA (superuser privileges)
 SQL*Plus: Release 21.0.0.0.0 - Production on Thu Oct 3 13:03:36 2024
 Version 21.3.0.0.0
 
@@ -187,6 +187,7 @@ SQL> drop pluggable database ma_to_delete_pdb;
 Pluggable database dropped.
 
 ```
+### ORACLE ENTERPRISE MANAGER
 
 ![Final](https://github.com/user-attachments/assets/559f7de9-6e37-4b48-ab46-e978553db281)
 
