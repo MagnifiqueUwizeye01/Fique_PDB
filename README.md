@@ -1,3 +1,13 @@
+### ORACLE DATABASE MANAGMENT SQL COMMANDS FOR PLUGGABL DATABASE OPERATIONS
+
+### This document provides a detailed step-by-step demonstration of using SQL commands in Oracle 21c Express Edition to manage pluggable databases (PDBs). It includes operations like creating, opening, modifying, and deleting pluggable databases, as well as managing users and privileges within them. The commands are executed in an Oracle Database environment using SQL*Plus with SYSDBA privileges, highlighting common tasks that database administrators might perform, such as:
+
+### Checking the instance and PDB status
+### Creating new pluggable databases
+### Opening and closing databases
+### Managing user accounts and privileges
+### Saving database states and handling database files
+### Unplugging and dropping pluggable databases
 ```SQL
 Microsoft Windows [Version 10.0.19045.4894]
 (c) Microsoft Corporation. All rights reserved.
