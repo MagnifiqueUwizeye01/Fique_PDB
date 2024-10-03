@@ -154,3 +154,19 @@ SQL> drop pluggable database ma_to_delete_pdb;
 Pluggable database dropped.
 
 ```
+
+![Final](https://github.com/user-attachments/assets/559f7de9-6e37-4b48-ab46-e978553db281)
+
+### SQL COMMANDS SCREENSHOT
+
+
+
+![03](https://github.com/user-attachments/assets/18e40f17-28c0-4323-9362-ae57aee886b0)
+![08](https://github.com/user-attachments/assets/2f2e9c54-dc82-4135-a397-9c1368ad0d09)
+![07](https://github.com/user-attachments/assets/f4263713-3e96-4bf3-adb1-07456439b863)
+![05 2](https://github.com/user-attachments/assets/787b9d1c-ad5e-48cf-a956-3175b2b2befa)
+![04](https://github.com/user-attachments/assets/4b97ffa2-e0ac-4113-bdbe-a83054370bc6)
+![01](https://github.com/user-attachments/assets/6d6aee00-24e2-4278-81ec-b552ec5fe38d)
+![02](https://github.com/user-attachments/assets/1145423b-cb85-4e01-8c3b-121a1c064a0d)
+
+
