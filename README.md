@@ -4,7 +4,7 @@ Microsoft Windows [Version 10.0.19045.4894]
 
 C:\Users\User>sqlplus sys as SYSDBA
 
--- Connect to the Oracle database as SYSDBA (superuser privileges)
+### Connect to the Oracle database as SYSDBA (superuser privileges)
 SQL*Plus: Release 21.0.0.0.0 - Production on Thu Oct 3 13:03:36 2024
 Version 21.3.0.0.0
 
