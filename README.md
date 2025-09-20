@@ -6,7 +6,7 @@ Checking the instance and PDB status,
 Creating new pluggable databases,
 Opening and closing databases,
 Managing user accounts and privileges,
-Saving database states and handling database files and
+Saving database states and handling database files and 
 Unplugging and dropping pluggable databases.
 
 ```SQL
