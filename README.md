@@ -177,7 +177,7 @@ SQL> alter pluggable database ma_to_delete_pdb close immediate;
 Pluggable database altered.
 
 SQL> alter pluggable database ma_to_delete_pdb unplug into 'C:\app\User\product\21c\admin\XE\dpdump\ma_to_delete_pdb.xml';
--- Unplugs the pluggable database 'ma_to_delete_pdb' and exports its metadata to the specified XML file
+-- Unplugs the pluggable database 'ma_to_delete_pdb' and exports its metadata to the specified XML file 
 
 Pluggable database altered.
 
