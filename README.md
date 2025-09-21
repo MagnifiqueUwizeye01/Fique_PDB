@@ -7,7 +7,7 @@ Creating new pluggable databases,
 Opening and closing databases,
 Managing user accounts and privileges, 
 Saving database states and handling database files and  
-Unplugging and dropping pluggable databases.  
+Unplugging and dropping pluggable databases.   
 
 ```SQL
 Microsoft Windows [Version 10.0.19045.4894]
